@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.py~
+*.un~
+..gitignore~
+.gitignore
